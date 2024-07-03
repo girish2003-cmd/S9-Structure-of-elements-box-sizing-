@@ -1,0 +1,98 @@
+h1{
+    background-color: orangered;
+    width: 150px;
+    
+}
+#body{
+  background-color: aquamarine;
+}
+#h2{
+   /* padding-left: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 200px;*/
+    padding: 80px;
+    border: 100px solid black;
+    border-radius: 10px;
+}
+#rohit{
+    color: blue;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+}
+
+
+#img1 {
+    width: 300px;
+    border: 5px solid rgb(8, 166, 234);
+    margin: 50px;
+  }
+#img2 {
+    width: 300px;
+    border: 5px dotted rgb(0, 30, 128);
+    margin: 50px;
+
+  }
+#img3 {
+    width: 300px;
+    border: 5px dashed rgb(16, 85, 246);
+    margin: 50px;
+
+  }
+#img4{
+      width: 300px;
+      border: 5px double rgb(0, 53, 128);
+      margin: 50px;
+
+  }
+#img5{
+      width: 300px;
+      border: 20px groove rgb(18, 11, 202);
+      margin: 50px;
+
+  }
+#img6{
+      width: 300px;
+      border: 20px ridge rgb(0, 34, 128);
+      margin: 50px;
+
+  }
+#img7{
+      width: 300px;
+      border: 20px inset rgb(0, 4, 128);
+      margin: 50px;
+
+  }
+#img8{
+      width: 300px;
+      margin: 50px;
+
+      border: 20px outset rgb(0, 9, 128);
+  }
+#img9{
+      width: 300px;
+      border: 20px none rgb(0, 38, 128);
+      margin: 50px;
+
+  }
+#img10{
+      width: 300px;
+      border: 20px hidden rgb(0, 13, 128);
+      margin: 50px;
+
+  }
+#rohit1{
+    padding: 25px;
+    border: 20px solid black;
+    box-sizing: content-box;
+}
+#rohit2{
+    width: 400px;
+    padding: 25px;
+    border: 20px solid black;
+    box-sizing: border-box;
+
+}
+h2{
+    text-shadow: 5px 5px grey;
+}
